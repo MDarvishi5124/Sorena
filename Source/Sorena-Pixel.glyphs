@@ -44,30 +44,33 @@ code = "
 
 @MarkFilteringSet1 = [arabichamzabelowcomb arabickasracomb alefcomb-arab arabickasratancomb arabichamzacomb_arabickasracomb arabichamzacomb_arabickasratancomb];
 @MarkFilteringSet2 = [arabichamzacomb.1 arabicfathacomb arabicdammacomb arabicdammatancomb arabicshaddacomb arabicalefcomb arabicsukuncomb arabicfathatancomb arabichamzacomb_arabicdammacomb arabichamzacomb_arabicdammatancomb arabichamzacomb_arabicfathacomb arabichamzacomb_arabicfathatancomb smallquestionmark arabicshaddacomb_arabicfathatancomb shaddadammatan-arab.isol shaddafatha-arab.isol shaddadamma-arab.isol];
-@CG_1 = [arabictatweelmod uighurkazakhkirghizalefmaksura-arab.init uighurkazakhkirghizalefmaksura-arab.medi beh-arab.init beh-arab.medi beh-arab.init.1 beh-arab.medi.1 teh-arab.init teh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.medi theh-arab.init theh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.medi peh-arab.init peh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.medi peh-arab.init.1 peh-arab.medi.1 hah-arab.init hah-arab.medi jeem-arab.init jeem-arab.medi tcheh-arab.init tcheh-arab.medi khah-arab.init khah-arab.medi seen-arab.init seen-arab.medi sheen-arab.init sheen-arab.medi sad-arab.init sad-arab.medi dad-arab.init dad-arab.medi tah-arab.init tah-arab.medi zah-arab.init zah-arab.medi ain-arab.init ain-arab.medi ghain-arab.init ghain-arab.medi dotlessfeh-arab.init dotlessfeh-arab.medi feh-arab.init feh-arab.medi veh-arab.init veh-arab.medi qaf-arab.init qaf-arab.medi keheh-arab.init keheh-arab.medi kaf-arab.init kaf-arab.medi gaf-arab.init gaf-arab.medi lam-arab.init lam-arab.medi meem-arab.init meem-arab.medi noon-arab.init noon-arab.medi heh-arab.init heh-arab.medi hehgoal-arab.medi hehgoal-arab.init hehdoachashmee-arab.init hehdoachashmee-arab.medi farsiyeh-arab.init farsiyeh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.medi farsiyeh-arab.init.1 farsiyeh-arab.medi.1 yehhamzaabove-arab.init yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi uniE069 beh-arab.init.2 beh-arab.medi.2 peh-arab.init.2 peh-arab.medi.2 farsiyeh-arab.init.2 farsiyeh-arab.medi.2 tteh-arab.init tteh-arab.medi tteh-arab.init.1 tteh-arab.medi.1 yehsmallv-arab.init yehsmallv-arab.medi yehsmallv-arab.init.1 uE047 uE059 yehsmallv-arab.init.2 yehsmallv-arab.medi.1 yehsmallv-arab.medi.2 lamsmallv-arab.init lamsmallv-arab.medi yehsmallv-arab.medi.3 yehsmallv-arab.medi.4 yehsmallv-arab.init.3 swashkaf-arab.init swashkaf-arab.medi];
+@CG_1 = [arabictatweelmod uighurkazakhkirghizalefmaksura-arab.init uighurkazakhkirghizalefmaksura-arab.medi beh-arab.init beh-arab.medi beh-arab.init.1 beh-arab.medi.1 peh-arab.init peh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.medi peh-arab.init.1 peh-arab.medi.1 hah-arab.init hah-arab.medi jeem-arab.init jeem-arab.medi tcheh-arab.init tcheh-arab.medi khah-arab.init khah-arab.medi seen-arab.init seen-arab.medi sheen-arab.init sheen-arab.medi sad-arab.init sad-arab.medi dad-arab.init dad-arab.medi tah-arab.init tah-arab.medi zah-arab.init zah-arab.medi ain-arab.init ain-arab.medi ghain-arab.init ghain-arab.medi dotlessfeh-arab.init dotlessfeh-arab.medi feh-arab.init feh-arab.medi veh-arab.init veh-arab.medi qaf-arab.init qaf-arab.medi keheh-arab.init keheh-arab.medi kaf-arab.init kaf-arab.medi gaf-arab.init gaf-arab.medi lam-arab.init lam-arab.medi meem-arab.init meem-arab.medi noon-arab.init noon-arab.medi heh-arab.init heh-arab.medi hehgoal-arab.medi hehgoal-arab.init hehdoachashmee-arab.init hehdoachashmee-arab.medi farsiyeh-arab.init farsiyeh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.medi farsiyeh-arab.init.1 farsiyeh-arab.medi.1 yehhamzaabove-arab.init yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi uniE069 beh-arab.init.2 beh-arab.medi.2 peh-arab.init.2 peh-arab.medi.2 farsiyeh-arab.init.2 farsiyeh-arab.medi.2 tteh-arab.init tteh-arab.medi tteh-arab.init.1 tteh-arab.medi.1 yehsmallv-arab.init yehsmallv-arab.medi yehsmallv-arab.init.1 uE047 uE059 yehsmallv-arab.init.2 yehsmallv-arab.medi.1 yehsmallv-arab.medi.2 lamsmallv-arab.init lamsmallv-arab.medi yehsmallv-arab.medi.3 yehsmallv-arab.medi.4 yehsmallv-arab.init.3 swashkaf-arab.init swashkaf-arab.medi];
 @CG_2 = [alef-arab.fina alefmaddaabove-arab.fina highhamzaalef-arab alefhamzabelow-arab.fina arabictatweelmod dotlessbeh-arab.fina beh-arab.fina teh-arab.fina teh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.medi theh-arab.fina theh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.medi peh-arab.fina peh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.medi peh-arab.medi.1 hah-arab.fina hah-arab.medi jeem-arab.fina jeem-arab.medi tcheh-arab.fina tcheh-arab.medi khah-arab.fina khah-arab.medi dal-arab.fina thal-arab.fina reh-arab.fina zain-arab.fina jeh-arab.fina seen-arab.fina seen-arab.medi sheen-arab.fina sheen-arab.medi sad-arab.fina sad-arab.medi dad-arab.fina dad-arab.medi tah-arab.fina tah-arab.medi zah-arab.fina zah-arab.medi ain-arab.fina ain-arab.medi ghain-arab.fina ghain-arab.medi dotlessfeh-arab.fina dotlessfeh-arab.medi feh-arab.fina feh-arab.medi veh-arab.fina veh-arab.medi uniE014 qaf-arab.fina qaf-arab.medi keheh-arab.fina keheh-arab.medi kaf-arab.fina kaf-arab.medi gaf-arab.fina gaf-arab.medi lam-arab.fina lam-arab.medi meem-arab.fina meem-arab.medi noonghunna-arab.fina noon-arab.fina noon-arab.medi waw-arab.fina heh-arab.fina heh-arab.medi hehgoal-arab.fina hehgoal-arab.medi hehyehabove-arab.fina heh_arabichamzacomb-arab.fina hehgoal_arabichamzacomb-arab.fina tehmarbuta-arab.fina hehgoal_symboltwodotsabovemod-arab.fina hehdoachashmee-arab.fina hehdoachashmee-arab.medi farsiyeh-arab.fina yeh-arab.fina farsiyeh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.medi farsiyeh-arab.medi.1 yehhamzaabove-arab.fina yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi yehbarree-arab yehbarree-arab.fina yehbarreehamzaabove-arab.fina yehbarree-arab.2.fina arabichamzacomb farsiyeh-arab.fina.1 yeh-arab.fina.1 yehhamzaabove-arab.fina.1 uniE069 beh-arab.medi.2 peh-arab.medi.2 farsiyeh-arab.medi.2 alefmaddaabove-arab.fina.1 wawhamzaabove-arab.fina alef-arab.fina.1 highhamzaalef-arab.calt alefhamzabelow-arab.fina.1 uE020 alefmaddaabove-arab.fina.2 rreh-arab rreh-arab.fina tteh-arab.fina tteh-arab.medi alefwasla-arab.fina aleffathatan-arab.fina rehsmallvbelow-arab.fina tteh-arab.medi.1 yehsmallv-arab.fina yehsmallv-arab.medi uE059 yehsmallv-arab.medi.1 yehsmallv-arab.medi.2 kirghizyu-arab.fina oe-arab.fina u-arab.fina waw-arab.fina.1 kirghizyu-arab.fina.1 oe-arab.fina.1 u-arab.fina.1 uE079 reh-arab.fina.1 zain-arab.fina.1 jeh-arab.fina.1 rreh-arab.fina.1 rehsmallvbelow-arab.fina.1 ddal-arab.fina lamsmallv-arab.fina lamsmallv-arab.medi yehsmallv-arab.medi.3 yehsmallv-arab.medi.4 swashkaf-arab.fina swashkaf-arab.medi uE063];
-@CG_3 = [uighurkazakhkirghizalefmaksura-arab.init uighurkazakhkirghizalefmaksura-arab.medi teh-arab.init teh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.medi theh-arab.init theh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.medi hah-arab.init hah-arab.medi khah-arab.init khah-arab.medi seen-arab.init seen-arab.medi sheen-arab.init sheen-arab.medi sad-arab.init sad-arab.medi dad-arab.init dad-arab.medi tah-arab.init tah-arab.medi zah-arab.init zah-arab.medi ain-arab.init ain-arab.medi ghain-arab.init ghain-arab.medi dotlessfeh-arab.init dotlessfeh-arab.medi feh-arab.init feh-arab.medi veh-arab.init veh-arab.medi qaf-arab.init qaf-arab.medi keheh-arab.init keheh-arab.medi kaf-arab.init kaf-arab.medi gaf-arab.init gaf-arab.medi lam-arab.init lam-arab.medi meem-arab.init meem-arab.medi noon-arab.init noon-arab.medi heh-arab.init hehdoachashmee-arab.init hehdoachashmee-arab.medi yehhamzaabove-arab.init yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi tteh-arab.init tteh-arab.medi];
-@CG_4 = [space hamza-arab uni0627_alt.short alef-arab.fina.short alef-arab alef-arab.fina alefmaddaabove-arab alefmaddaabove-arab.fina alefhamzaabove-arab highhamzaalef-arab alefhamzabelow-arab alefhamzabelow-arab.fina uighurkazakhkirghizalefmaksura-arab.init uighurkazakhkirghizalefmaksura-arab.medi beh-arab.init beh-arab.medi beh-arab.init.1 beh-arab.medi.1 teh-arab.init teh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.medi theh-arab.init theh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.medi peh-arab.init peh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.medi peh-arab.init.1 peh-arab.medi.1 hah-arab.init hah-arab.medi jeem-arab.init jeem-arab.medi tcheh-arab.init tcheh-arab.medi khah-arab.init khah-arab.medi dal-arab dal-arab.fina thal-arab thal-arab.fina reh-arab reh-arab.fina zain-arab zain-arab.fina jeh-arab jeh-arab.fina seen-arab.init seen-arab.medi sheen-arab.init sheen-arab.medi sad-arab.init sad-arab.medi dad-arab.init dad-arab.medi tah-arab.init tah-arab.medi zah-arab.init zah-arab.medi ain-arab.init ain-arab.medi ghain-arab.init ghain-arab.medi dotlessfeh-arab.init dotlessfeh-arab.medi feh-arab.init feh-arab.medi veh-arab.init veh-arab.medi qaf-arab.init qaf-arab.medi keheh-arab.init keheh-arab.medi kaf-arab.init kaf-arab.medi gaf-arab.init gaf-arab.medi lam-arab.init lam-arab.medi meem-arab.init meem-arab.medi noon-arab.init noon-arab.medi waw-arab waw-arab.fina heh-arab.init heh-arab.medi hehgoal-arab.medi hehgoal-arab.init hehdoachashmee-arab.init hehdoachashmee-arab.medi farsiyeh-arab.init farsiyeh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.medi farsiyeh-arab.init.1 farsiyeh-arab.medi.1 yehhamzaabove-arab.init yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi lamalef-arab.isol lamalef-arab.fina lamalefmaddaabove-arab.isol lamalefmaddaabove-arab.fina lamalefhamzaabove-arab.isol lamalefhamzaabove-arab.fina lamalefhamzabelow-arab.isol lamalefhamzabelow-arab.fina beh-arab.init.2 beh-arab.medi.2 alefmaddaabove-arab.fina.1 tcheh-arab.init.1 wawhamzaabove-arab wawhamzaabove-arab.fina alef-arab.fina.1 highhamzaalef-arab.calt alefhamzabelow-arab.fina.1 alefmaddaabove-arab.fina.2 rreh-arab rreh-arab.fina tteh-arab.init tteh-arab.medi alefwasla-arab alefwasla-arab.fina aleffathatan-arab.isol aleffathatan-arab.fina rehsmallvbelow-arab rehsmallvbelow-arab.fina tteh-arab.init.1 tteh-arab.medi.1 yehsmallv-arab.init yehsmallv-arab.medi yehsmallv-arab.init.1 uE047 uE059 yehsmallv-arab.medi.2 kirghizyu-arab.fina kirghizyu-arab oe-arab.fina oe-arab u-arab.fina u-arab waw-arab.calt waw-arab.fina.1 kirghizyu-arab.fina.1 kirghizyu-arab.calt oe-arab.fina.1 oe-arab.calt u-arab.fina.1 u-arab.calt uE078 uE079 reh-arab.calt reh-arab.fina.1 zain-arab.calt zain-arab.fina.1 jeh-arab.calt jeh-arab.fina.1 rreh-arab.calt rreh-arab.fina.1 rehsmallvbelow-arab.calt rehsmallvbelow-arab.fina.1 ddal-arab ddal-arab.fina lamsmallv-arab.init lamsmallv-arab.medi fullstop-arab yehsmallv-arab.medi.3 yehsmallv-arab.medi.4 yehsmallv-arab.init.3 swashkaf-arab.init swashkaf-arab.medi uE093 uE063];
-@CG_5 = [farsiyeh-arab.fina yehhamzaabove-arab.fina farsiyeh-arab.fina.1 yehhamzaabove-arab.fina.1];
-@CG_6 = [alefhamzabelow-arab alefhamzabelow-arab.fina uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.medi reh-arab reh-arab.fina zain-arab zain-arab.fina jeh-arab jeh-arab.fina uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.medi farsiyeh-arab.init.1 farsiyeh-arab.init.2 farsiyeh-arab.medi.2 peh-arab.init.3 peh-arab.medi.3 farsiyeh-arab.init.3 farsiyeh-arab.medi.3 yehsmallv-arab.init.4 yehsmallv-arab.medi.5];
-@CG_7 = [beh-arab.init beh-arab.medi peh-arab.init peh-arab.medi tcheh-arab.init farsiyeh-arab.init farsiyeh-arab.medi];
-@CG_8 = [beh-arab.medi beh-arab.medi.1 peh-arab.init peh-arab.medi.1 farsiyeh-arab.medi farsiyeh-arab.medi.1 beh-arab.medi.2 peh-arab.medi.2 farsiyeh-arab.medi.2 uE059 yehsmallv-arab.medi.1 peh-arab.medi.3 farsiyeh-arab.medi.3 yehsmallv-arab.medi.5];
-@CG_9 = [beh-arab.init beh-arab.medi peh-arab.init peh-arab.medi tcheh-arab.init farsiyeh-arab.init farsiyeh-arab.medi yehsmallv-arab.init yehsmallv-arab.medi];
-@CG_10 = [alef-arab.fina alefmaddaabove-arab.fina highhamzaalef-arab beh-arab.fina beh-arab.medi.1 teh-arab.fina teh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.medi theh-arab.fina theh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.medi hah-arab.medi jeem-arab.medi khah-arab.medi dal-arab.fina thal-arab.fina seen-arab.fina seen-arab.medi sheen-arab.fina sheen-arab.medi sad-arab.fina sad-arab.medi dad-arab.fina dad-arab.medi tah-arab.fina tah-arab.medi zah-arab.fina zah-arab.medi ain-arab.medi ghain-arab.medi dotlessfeh-arab.fina dotlessfeh-arab.medi feh-arab.fina feh-arab.medi veh-arab.fina veh-arab.medi qaf-arab.medi keheh-arab.fina keheh-arab.medi kaf-arab.fina kaf-arab.medi gaf-arab.fina gaf-arab.medi lam-arab.medi meem-arab.fina meem-arab.medi noon-arab.medi heh-arab.fina hehgoal-arab.fina hehyehabove-arab.fina heh_arabichamzacomb-arab.fina hehgoal_arabichamzacomb-arab.fina tehmarbuta-arab.fina hehgoal_symboltwodotsabovemod-arab.fina hehdoachashmee-arab.fina hehdoachashmee-arab.medi yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi lamalef-arab.fina lamalefmaddaabove-arab.fina lamalefhamzaabove-arab.fina lamalefhamzabelow-arab.fina beh-arab.medi.2 peh-arab.medi.2 farsiyeh-arab.medi.2 tteh-arab.medi tteh-arab.medi.1];
-@CG_11 = [alefhamzabelow-arab.fina peh-arab.medi khah-arab.fina reh-arab reh-arab.fina zain-arab zain-arab.fina jeh-arab jeh-arab.fina uniE014 qaf-arab.fina lam-arab.fina noonghunna-arab.fina noon-arab.fina waw-arab.fina heh-arab.medi hehgoal-arab.medi farsiyeh-arab.fina yeh-arab.fina farsiyeh-arab.init farsiyeh-arab.medi yehhamzaabove-arab.fina];
-@CG_12 = [peh-arab.init peh-arab.medi farsiyeh-arab.init farsiyeh-arab.medi];
-@CG_13 = [teh-arab.init teh-arab.medi theh-arab.init theh-arab.medi tah-arab.init tah-arab.medi zah-arab.init zah-arab.medi feh-arab.init feh-arab.medi veh-arab.init veh-arab.medi qaf-arab.init qaf-arab.medi keheh-arab.init keheh-arab.medi kaf-arab.init kaf-arab.medi gaf-arab.init gaf-arab.medi lam-arab.init lam-arab.medi noon-arab.init noon-arab.medi yehsmallv-arab.init yehsmallv-arab.medi yehsmallv-arab.medi.3];
-@CG_14 = [yehsmallv-arab.init yehsmallv-arab.medi];
-@CG_15 = [uighurkazakhkirghizalefmaksura-arab.medi beh-arab.fina beh-arab.medi beh-arab.medi.1 teh-arab.fina theh-arab.fina peh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.medi peh-arab.medi.1 hah-arab.medi jeem-arab.medi khah-arab.medi dal-arab.fina thal-arab.fina reh-arab.fina seen-arab.fina seen-arab.medi sheen-arab.fina sheen-arab.medi sad-arab.fina sad-arab.medi dad-arab.fina dad-arab.medi tah-arab.fina tah-arab.medi dotlessfeh-arab.fina dotlessfeh-arab.medi feh-arab.fina feh-arab.medi uniE014 meem-arab.fina meem-arab.medi waw-arab.fina hehgoal-arab.fina hehgoal_arabichamzacomb-arab.fina hehgoal_symboltwodotsabovemod-arab.fina farsiyeh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.medi farsiyeh-arab.medi.1 yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi beh-arab.medi.2 peh-arab.medi.2 farsiyeh-arab.medi.2 rehsmallvbelow-arab.fina waw-arab.fina.1 reh-arab.fina.1 rehsmallvbelow-arab.fina.1 peh-arab.medi.3 farsiyeh-arab.medi.3 yehsmallv-arab.medi.5];
-@CG_16 = [alefhamzabelow-arab.fina beh-arab.medi peh-arab.medi khah-arab.fina reh-arab reh-arab.fina zain-arab zain-arab.fina jeh-arab jeh-arab.fina uniE014 qaf-arab.fina keheh-arab.medi kaf-arab.medi lam-arab.fina noonghunna-arab.fina noon-arab.fina waw-arab.fina heh-arab.medi hehgoal-arab.medi farsiyeh-arab.fina yeh-arab.fina farsiyeh-arab.init farsiyeh-arab.medi yehhamzaabove-arab.fina];
-@CG_17 = [teh-arab.init teh-arab.medi theh-arab.init theh-arab.medi yehhamzaabove-arab.init yehhamzaabove-arab.medi tteh-arab.init tteh-arab.medi];
-@CG_18 = [space teh-arab.init teh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.medi theh-arab.init theh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.medi hah-arab.init hah-arab.medi jeem-arab.init jeem-arab.medi khah-arab.init khah-arab.medi seen-arab.init seen-arab.medi sheen-arab.init sheen-arab.medi sad-arab.init sad-arab.medi dad-arab.init dad-arab.medi tah-arab.init tah-arab.medi zah-arab.init zah-arab.medi ain-arab.init ain-arab.medi ghain-arab.init ghain-arab.medi dotlessfeh-arab.init dotlessfeh-arab.medi feh-arab.init feh-arab.medi veh-arab.init veh-arab.medi qaf-arab.init qaf-arab.medi keheh-arab.init keheh-arab.medi kaf-arab.init kaf-arab.medi gaf-arab.init gaf-arab.medi lam-arab.init lam-arab.medi meem-arab.init meem-arab.medi noon-arab.init noon-arab.medi heh-arab.init hehdoachashmee-arab.init hehdoachashmee-arab.medi yehhamzaabove-arab.init yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi tteh-arab.init tteh-arab.medi lamsmallv-arab.init lamsmallv-arab.medi swashkaf-arab.init swashkaf-arab.medi uE063];
-@CG_19 = [farsiyeh-arab.fina yeh-arab.fina yehhamzaabove-arab.fina];
-@CG_20 = [teh-arab.init teh-arab.medi theh-arab.init theh-arab.medi tah-arab.init tah-arab.medi zah-arab.init zah-arab.medi feh-arab.init feh-arab.medi veh-arab.init veh-arab.medi qaf-arab.init qaf-arab.medi lam-arab.init lam-arab.medi noon-arab.init noon-arab.medi yehhamzaabove-arab.init yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi tteh-arab.init tteh-arab.medi yehsmallv-arab.init.1 yehsmallv-arab.init.2 yehsmallv-arab.medi.1 yehsmallv-arab.medi.2];
-@CG_21 = [uighurkazakhkirghizalefmaksura-arab.init uighurkazakhkirghizalefmaksura-arab.medi beh-arab.init beh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.medi noon-arab.init noon-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi beh-arab.init.2 beh-arab.medi.2 peh-arab.init.2 peh-arab.medi.2 farsiyeh-arab.init.2 farsiyeh-arab.medi.2 tteh-arab.init.1 tteh-arab.medi.1 yehsmallv-arab.init.1 yehsmallv-arab.init.2 yehsmallv-arab.medi.1 yehsmallv-arab.medi.2];
-@CG_22 = [alef-arab.fina alefmaddaabove-arab.fina highhamzaalef-arab alefhamzabelow-arab.fina];
-@CG_23 = [reh-arab reh-arab.fina zain-arab zain-arab.fina jeh-arab jeh-arab.fina waw-arab waw-arab.fina wawhamzaabove-arab wawhamzaabove-arab.fina kirghizyu-arab.fina kirghizyu-arab oe-arab.fina oe-arab u-arab.fina u-arab];
-@CG_24 = [space exclam period colon guillemetleft arabiccomma arabicsemicolon arabicquestionmark hamza-arab alef-arab alefmaddaabove-arab alefhamzaabove-arab dotlessbeh-arab beh-arab teh-arab teh-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.init theh-arab theh-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.init peh-arab hah-arab.init khah-arab.init dal-arab thal-arab seen-arab seen-arab.init sheen-arab sheen-arab.init sad-arab sad-arab.init dad-arab dad-arab.init tah-arab tah-arab.init zah-arab zah-arab.init ain-arab.init ghain-arab.init dotlessfeh-arab dotlessfeh-arab.init feh-arab feh-arab.init veh-arab veh-arab.init qaf-arab.init keheh-arab keheh-arab.init kaf-arab kaf-arab.init gaf-arab gaf-arab.init lam-arab.init meem-arab meem-arab.init noon-arab.init heh-arab heh-arab.init hehgoal-arab hehyehabove-arab hehgoalhamzaabove-arab tehmarbuta-arab tehmarbutagoal-arab hehdoachashmee-arab hehdoachashmee-arab.init yehhamzaabove-arab.init uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init yehbarree-arab yehbarreehamzaabove-arab lamalef-arab.isol lamalefmaddaabove-arab.isol lamalefhamzaabove-arab.isol lamalefhamzabelow-arab.isol lam_uE069_arabicshaddacomb_arabicalefcomb_hehgoal_arabictatweelmod-arab.init.fina allah-arab.isol uE019 tteh-arab tteh-arab.init alefwasla-arab aleffathatan-arab.isol tteh-arab.init.1];
+@CG_3 = [teh-arab.init teh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.medi theh-arab.init theh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.medi];
+@CG_4 = [uighurkazakhkirghizalefmaksura-arab.init uighurkazakhkirghizalefmaksura-arab.medi teh-arab.init teh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.medi theh-arab.init theh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.medi hah-arab.init hah-arab.medi khah-arab.init khah-arab.medi seen-arab.init seen-arab.medi sheen-arab.init sheen-arab.medi sad-arab.init sad-arab.medi dad-arab.init dad-arab.medi tah-arab.init tah-arab.medi zah-arab.init zah-arab.medi ain-arab.init ain-arab.medi ghain-arab.init ghain-arab.medi dotlessfeh-arab.init dotlessfeh-arab.medi feh-arab.init feh-arab.medi veh-arab.init veh-arab.medi qaf-arab.init qaf-arab.medi keheh-arab.init keheh-arab.medi kaf-arab.init kaf-arab.medi gaf-arab.init gaf-arab.medi lam-arab.init lam-arab.medi meem-arab.init meem-arab.medi noon-arab.init noon-arab.medi heh-arab.init hehdoachashmee-arab.init hehdoachashmee-arab.medi yehhamzaabove-arab.init yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi tteh-arab.init tteh-arab.medi];
+@CG_5 = [space hamza-arab uni0627_alt.short alef-arab.fina.short alef-arab alef-arab.fina alefmaddaabove-arab alefmaddaabove-arab.fina alefhamzaabove-arab highhamzaalef-arab alefhamzabelow-arab alefhamzabelow-arab.fina uighurkazakhkirghizalefmaksura-arab.init uighurkazakhkirghizalefmaksura-arab.medi beh-arab.init beh-arab.medi beh-arab.init.1 beh-arab.medi.1 teh-arab.init teh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.medi theh-arab.init theh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.medi peh-arab.init peh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.medi peh-arab.init.1 peh-arab.medi.1 hah-arab.init hah-arab.medi jeem-arab.init jeem-arab.medi tcheh-arab.init tcheh-arab.medi khah-arab.init khah-arab.medi dal-arab dal-arab.fina thal-arab thal-arab.fina reh-arab reh-arab.fina zain-arab zain-arab.fina jeh-arab jeh-arab.fina seen-arab.init seen-arab.medi sheen-arab.init sheen-arab.medi sad-arab.init sad-arab.medi dad-arab.init dad-arab.medi tah-arab.init tah-arab.medi zah-arab.init zah-arab.medi ain-arab.init ain-arab.medi ghain-arab.init ghain-arab.medi dotlessfeh-arab.init dotlessfeh-arab.medi feh-arab.init feh-arab.medi veh-arab.init veh-arab.medi qaf-arab.init qaf-arab.medi keheh-arab.init keheh-arab.medi kaf-arab.init kaf-arab.medi gaf-arab.init gaf-arab.medi lam-arab.init lam-arab.medi meem-arab.init meem-arab.medi noon-arab.init noon-arab.medi waw-arab waw-arab.fina heh-arab.init heh-arab.medi hehgoal-arab.medi hehgoal-arab.init hehdoachashmee-arab.init hehdoachashmee-arab.medi farsiyeh-arab.init farsiyeh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.medi farsiyeh-arab.init.1 farsiyeh-arab.medi.1 yehhamzaabove-arab.init yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi lamalef-arab.isol lamalef-arab.fina lamalefmaddaabove-arab.isol lamalefmaddaabove-arab.fina lamalefhamzaabove-arab.isol lamalefhamzaabove-arab.fina lamalefhamzabelow-arab.isol lamalefhamzabelow-arab.fina beh-arab.init.2 beh-arab.medi.2 alefmaddaabove-arab.fina.1 tcheh-arab.init.1 wawhamzaabove-arab wawhamzaabove-arab.fina alef-arab.fina.1 highhamzaalef-arab.calt alefhamzabelow-arab.fina.1 alefmaddaabove-arab.fina.2 rreh-arab rreh-arab.fina tteh-arab.init tteh-arab.medi alefwasla-arab alefwasla-arab.fina aleffathatan-arab.isol aleffathatan-arab.fina rehsmallvbelow-arab rehsmallvbelow-arab.fina tteh-arab.init.1 tteh-arab.medi.1 yehsmallv-arab.init yehsmallv-arab.medi yehsmallv-arab.init.1 uE047 uE059 yehsmallv-arab.medi.2 kirghizyu-arab.fina kirghizyu-arab oe-arab.fina oe-arab u-arab.fina u-arab waw-arab.calt waw-arab.fina.1 kirghizyu-arab.fina.1 kirghizyu-arab.calt oe-arab.fina.1 oe-arab.calt u-arab.fina.1 u-arab.calt uE078 uE079 reh-arab.calt reh-arab.fina.1 zain-arab.calt zain-arab.fina.1 jeh-arab.calt jeh-arab.fina.1 rreh-arab.calt rreh-arab.fina.1 rehsmallvbelow-arab.calt rehsmallvbelow-arab.fina.1 ddal-arab ddal-arab.fina lamsmallv-arab.init lamsmallv-arab.medi fullstop-arab yehsmallv-arab.medi.3 yehsmallv-arab.medi.4 yehsmallv-arab.init.3 swashkaf-arab.init swashkaf-arab.medi uE093 uE063];
+@CG_6 = [farsiyeh-arab.fina yehhamzaabove-arab.fina farsiyeh-arab.fina.1 yehhamzaabove-arab.fina.1];
+@CG_7 = [alefhamzabelow-arab alefhamzabelow-arab.fina uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.medi reh-arab reh-arab.fina zain-arab zain-arab.fina jeh-arab jeh-arab.fina uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.medi farsiyeh-arab.init.1 farsiyeh-arab.init.2 farsiyeh-arab.medi.2 peh-arab.init.3 peh-arab.medi.3 farsiyeh-arab.init.3 farsiyeh-arab.medi.3 yehsmallv-arab.init.4 yehsmallv-arab.medi.5];
+@CG_8 = [beh-arab.init beh-arab.medi peh-arab.init peh-arab.medi tcheh-arab.init farsiyeh-arab.init farsiyeh-arab.medi];
+@CG_9 = [beh-arab.medi beh-arab.medi.1 peh-arab.init peh-arab.medi.1 farsiyeh-arab.medi farsiyeh-arab.medi.1 beh-arab.medi.2 peh-arab.medi.2 farsiyeh-arab.medi.2 uE059 yehsmallv-arab.medi.1 peh-arab.medi.3 farsiyeh-arab.medi.3 yehsmallv-arab.medi.5];
+@CG_10 = [beh-arab.init beh-arab.medi peh-arab.init peh-arab.medi tcheh-arab.init farsiyeh-arab.init farsiyeh-arab.medi yehsmallv-arab.init yehsmallv-arab.medi];
+@CG_11 = [alef-arab.fina alefmaddaabove-arab.fina highhamzaalef-arab beh-arab.fina beh-arab.medi.1 teh-arab.fina teh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.medi theh-arab.fina theh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.medi hah-arab.medi jeem-arab.medi khah-arab.medi dal-arab.fina thal-arab.fina seen-arab.fina seen-arab.medi sheen-arab.fina sheen-arab.medi sad-arab.fina sad-arab.medi dad-arab.fina dad-arab.medi tah-arab.fina tah-arab.medi zah-arab.fina zah-arab.medi ain-arab.medi ghain-arab.medi dotlessfeh-arab.fina dotlessfeh-arab.medi feh-arab.fina feh-arab.medi veh-arab.fina veh-arab.medi qaf-arab.medi keheh-arab.fina keheh-arab.medi kaf-arab.fina kaf-arab.medi gaf-arab.fina gaf-arab.medi lam-arab.medi meem-arab.fina meem-arab.medi noon-arab.medi heh-arab.fina hehgoal-arab.fina hehyehabove-arab.fina heh_arabichamzacomb-arab.fina hehgoal_arabichamzacomb-arab.fina tehmarbuta-arab.fina hehgoal_symboltwodotsabovemod-arab.fina hehdoachashmee-arab.fina hehdoachashmee-arab.medi yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi lamalef-arab.fina lamalefmaddaabove-arab.fina lamalefhamzaabove-arab.fina lamalefhamzabelow-arab.fina beh-arab.medi.2 peh-arab.medi.2 farsiyeh-arab.medi.2 tteh-arab.medi tteh-arab.medi.1];
+@CG_12 = [alefhamzabelow-arab.fina peh-arab.medi khah-arab.fina reh-arab reh-arab.fina zain-arab zain-arab.fina jeh-arab jeh-arab.fina uniE014 qaf-arab.fina lam-arab.fina noonghunna-arab.fina noon-arab.fina waw-arab.fina heh-arab.medi hehgoal-arab.medi farsiyeh-arab.fina yeh-arab.fina farsiyeh-arab.init farsiyeh-arab.medi yehhamzaabove-arab.fina];
+@CG_13 = [peh-arab.init peh-arab.medi farsiyeh-arab.init farsiyeh-arab.medi];
+@CG_14 = [teh-arab.init teh-arab.medi theh-arab.init theh-arab.medi tah-arab.init tah-arab.medi zah-arab.init zah-arab.medi feh-arab.init feh-arab.medi veh-arab.init veh-arab.medi qaf-arab.init qaf-arab.medi keheh-arab.init keheh-arab.medi kaf-arab.init kaf-arab.medi gaf-arab.init gaf-arab.medi lam-arab.init lam-arab.medi noon-arab.init noon-arab.medi yehsmallv-arab.init yehsmallv-arab.medi yehsmallv-arab.medi.3];
+@CG_15 = [yehsmallv-arab.init yehsmallv-arab.medi];
+@CG_16 = [uighurkazakhkirghizalefmaksura-arab.medi beh-arab.fina beh-arab.medi beh-arab.medi.1 teh-arab.fina theh-arab.fina peh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.medi peh-arab.medi.1 hah-arab.medi jeem-arab.medi khah-arab.medi dal-arab.fina thal-arab.fina reh-arab.fina seen-arab.fina seen-arab.medi sheen-arab.fina sheen-arab.medi sad-arab.fina sad-arab.medi dad-arab.fina dad-arab.medi tah-arab.fina tah-arab.medi dotlessfeh-arab.fina dotlessfeh-arab.medi feh-arab.fina feh-arab.medi uniE014 meem-arab.fina meem-arab.medi noonghunna-arab.fina noon-arab.fina waw-arab.fina hehgoal-arab.fina hehgoal_arabichamzacomb-arab.fina hehgoal_symboltwodotsabovemod-arab.fina farsiyeh-arab.fina yeh-arab.fina farsiyeh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.medi farsiyeh-arab.medi.1 yehhamzaabove-arab.fina yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi beh-arab.medi.2 peh-arab.medi.2 farsiyeh-arab.medi.2 rehsmallvbelow-arab.fina yehsmallv-arab.fina waw-arab.fina.1 reh-arab.fina.1 rehsmallvbelow-arab.fina.1 peh-arab.medi.3 farsiyeh-arab.medi.3 yehsmallv-arab.medi.5];
+@CG_17 = [alefhamzabelow-arab.fina beh-arab.medi peh-arab.medi khah-arab.fina reh-arab reh-arab.fina zain-arab zain-arab.fina jeh-arab jeh-arab.fina uniE014 qaf-arab.fina keheh-arab.medi kaf-arab.medi lam-arab.fina noonghunna-arab.fina noon-arab.fina waw-arab.fina heh-arab.medi hehgoal-arab.medi farsiyeh-arab.fina yeh-arab.fina farsiyeh-arab.init farsiyeh-arab.medi yehhamzaabove-arab.fina];
+@CG_18 = [teh-arab.init teh-arab.medi theh-arab.init theh-arab.medi yehhamzaabove-arab.init yehhamzaabove-arab.medi tteh-arab.init tteh-arab.medi];
+@CG_19 = [space teh-arab.init teh-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.medi theh-arab.init theh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.medi hah-arab.init hah-arab.medi jeem-arab.init jeem-arab.medi khah-arab.init khah-arab.medi seen-arab.init seen-arab.medi sheen-arab.init sheen-arab.medi sad-arab.init sad-arab.medi dad-arab.init dad-arab.medi tah-arab.init tah-arab.medi zah-arab.init zah-arab.medi ain-arab.init ain-arab.medi ghain-arab.init ghain-arab.medi dotlessfeh-arab.init dotlessfeh-arab.medi feh-arab.init feh-arab.medi veh-arab.init veh-arab.medi qaf-arab.init qaf-arab.medi keheh-arab.init keheh-arab.medi kaf-arab.init kaf-arab.medi gaf-arab.init gaf-arab.medi lam-arab.init lam-arab.medi meem-arab.init meem-arab.medi noon-arab.init noon-arab.medi heh-arab.init hehdoachashmee-arab.init hehdoachashmee-arab.medi yehhamzaabove-arab.init yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi tteh-arab.init tteh-arab.medi lamsmallv-arab.init lamsmallv-arab.medi swashkaf-arab.init swashkaf-arab.medi uE063];
+@CG_20 = [farsiyeh-arab.fina yeh-arab.fina yehhamzaabove-arab.fina yehsmallv-arab.fina];
+@CG_21 = [teh-arab.init teh-arab.medi theh-arab.init theh-arab.medi tah-arab.init tah-arab.medi zah-arab.init zah-arab.medi feh-arab.init feh-arab.medi veh-arab.init veh-arab.medi qaf-arab.init qaf-arab.medi lam-arab.init lam-arab.medi noon-arab.init noon-arab.medi yehhamzaabove-arab.init yehhamzaabove-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi tteh-arab.init tteh-arab.medi yehsmallv-arab.init.1 yehsmallv-arab.init.2 yehsmallv-arab.medi.1 yehsmallv-arab.medi.2];
+@CG_22 = [uighurkazakhkirghizalefmaksura-arab.init uighurkazakhkirghizalefmaksura-arab.medi beh-arab.init beh-arab.medi uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.medi noon-arab.init noon-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.medi uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi beh-arab.init.2 beh-arab.medi.2 peh-arab.init.2 peh-arab.medi.2 farsiyeh-arab.init.2 farsiyeh-arab.medi.2 tteh-arab.init.1 tteh-arab.medi.1 yehsmallv-arab.init.1 yehsmallv-arab.init.2 yehsmallv-arab.medi.1 yehsmallv-arab.medi.2];
+@CG_23 = [alef-arab.fina alefmaddaabove-arab.fina highhamzaalef-arab alefhamzabelow-arab.fina];
+@CG_24 = [reh-arab reh-arab.fina zain-arab zain-arab.fina jeh-arab jeh-arab.fina waw-arab waw-arab.fina wawhamzaabove-arab wawhamzaabove-arab.fina kirghizyu-arab.fina kirghizyu-arab oe-arab.fina oe-arab u-arab.fina u-arab];
+@CG_25 = [space exclam period colon guillemetleft arabiccomma arabicsemicolon arabicquestionmark hamza-arab alef-arab alefmaddaabove-arab alefhamzaabove-arab dotlessbeh-arab beh-arab teh-arab teh-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.init theh-arab theh-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.init peh-arab hah-arab.init khah-arab.init dal-arab thal-arab seen-arab seen-arab.init sheen-arab sheen-arab.init sad-arab sad-arab.init dad-arab dad-arab.init tah-arab tah-arab.init zah-arab zah-arab.init ain-arab.init ghain-arab.init dotlessfeh-arab dotlessfeh-arab.init feh-arab feh-arab.init veh-arab veh-arab.init qaf-arab.init keheh-arab keheh-arab.init kaf-arab kaf-arab.init gaf-arab gaf-arab.init lam-arab.init meem-arab meem-arab.init noon-arab.init heh-arab heh-arab.init hehgoal-arab hehyehabove-arab hehgoalhamzaabove-arab tehmarbuta-arab tehmarbutagoal-arab hehdoachashmee-arab hehdoachashmee-arab.init yehhamzaabove-arab.init uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init yehbarree-arab yehbarreehamzaabove-arab lamalef-arab.isol lamalefmaddaabove-arab.isol lamalefhamzaabove-arab.isol lamalefhamzabelow-arab.isol lam_uE069_arabicshaddacomb_arabicalefcomb_hehgoal_arabictatweelmod-arab.init.fina allah-arab.isol uE019 tteh-arab tteh-arab.init alefwasla-arab aleffathatan-arab.isol tteh-arab.init.1];
+@CG_26 = [jeem-arab.init jeem-arab.medi];
+@CG_27 = [farsiyeh-arab.fina.1 yeh-arab.fina.1 yehhamzaabove-arab.fina.1 yehsmallv-arab.fina.1];
 @SubstClass1 = [uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symbolthreedotspointingdownwardsbelowmod-arab.medi uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.init uighurkazakhkirghizalefmaksura_symboltwodotsbelowmod-arab.medi];
 @KernClass1 = [hamza-arab dal-arab dal-arab.fina thal-arab thal-arab.fina waw-arab waw-arab.fina yehbarree-arab lamalefhamzabelow-arab.isol];
 @KernClass2 = [alefmaddaabove-arab alefmaddaabove-arab.fina];
@@ -112,98 +115,6 @@ code = "
 # Global lookup definitions
 #
 
-lookup SingleSubstitution4 { # GSUB lookup type SingleSubstitution
-    lookupflag RightToLeft;
-    sub yehsmallv-arab.init by yehsmallv-arab.init.3;
-} SingleSubstitution4;
-
-lookup Alternate4 { # GSUB lookup type Alternate
-    lookupflag RightToLeft;
-    sub farsiyeh-arab.fina from [yehbarree-arab.2.fina];
-    sub yehhamzaabove-arab.fina from [arabichamzacomb];
-    sub farsiyeh-arab.fina.1 from [yehbarree-arab.2.fina];
-    sub yehhamzaabove-arab.fina.1 from [arabichamzacomb];
-} Alternate4;
-
-lookup SingleSubstitution5 { # GSUB lookup type SingleSubstitution
-    lookupflag RightToLeft;
-    sub farsiyeh-arab.fina by farsiyeh-arab.fina.1;
-    sub yeh-arab.fina by yeh-arab.fina.1;
-    sub yehhamzaabove-arab.fina by yehhamzaabove-arab.fina.1;
-} SingleSubstitution5;
-
-lookup SingleSubstitution6 { # GSUB lookup type SingleSubstitution
-    lookupflag RightToLeft IgnoreMarks;
-    sub alefmaddaabove-arab.fina by alefmaddaabove-arab.fina.1;
-} SingleSubstitution6;
-
-lookup SingleSubstitution7 { # GSUB lookup type SingleSubstitution
-    lookupflag RightToLeft IgnoreMarks;
-    sub alef-arab.fina by alef-arab.fina.1;
-    sub alefmaddaabove-arab.fina by alefmaddaabove-arab.fina.2;
-    sub highhamzaalef-arab by highhamzaalef-arab.calt;
-    sub alefhamzabelow-arab.fina by alefhamzabelow-arab.fina.1;
-} SingleSubstitution7;
-
-lookup SingleSubstitution8 { # GSUB lookup type SingleSubstitution
-    lookupflag RightToLeft;
-    sub reh-arab by reh-arab.calt;
-    sub reh-arab.fina by reh-arab.fina.1;
-    sub zain-arab by zain-arab.calt;
-    sub zain-arab.fina by zain-arab.fina.1;
-    sub waw-arab by waw-arab.calt;
-    sub waw-arab.fina by waw-arab.fina.1;
-    sub kirghizyu-arab.fina by kirghizyu-arab.fina.1;
-    sub kirghizyu-arab by kirghizyu-arab.calt;
-    sub oe-arab.fina by oe-arab.fina.1;
-    sub oe-arab by oe-arab.calt;
-    sub u-arab.fina by u-arab.fina.1;
-    sub u-arab by u-arab.calt;
-} SingleSubstitution8;
-
-lookup SingleSubstitution9 { # GSUB lookup type SingleSubstitution
-    lookupflag RightToLeft;
-    sub jeh-arab by jeh-arab.calt;
-    sub jeh-arab.fina by jeh-arab.fina.1;
-    sub rreh-arab by rreh-arab.calt;
-    sub rreh-arab.fina by rreh-arab.fina.1;
-    sub rehsmallvbelow-arab by rehsmallvbelow-arab.calt;
-    sub rehsmallvbelow-arab.fina by rehsmallvbelow-arab.fina.1;
-} SingleSubstitution9;
-
-lookup SingleSubstitution10 { # GSUB lookup type SingleSubstitution
-    lookupflag RightToLeft;
-    sub teh-arab.init by uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.init;
-    sub teh-arab.medi by uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.medi;
-    sub theh-arab.init by uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.init;
-    sub theh-arab.medi by uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.medi;
-    sub yehhamzaabove-arab.init by uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init;
-    sub yehhamzaabove-arab.medi by uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi;
-    sub tteh-arab.init by tteh-arab.init.1;
-    sub tteh-arab.medi by tteh-arab.medi.1;
-} SingleSubstitution10;
-
-lookup SingleSubstitution11 { # GSUB lookup type SingleSubstitution
-    lookupflag RightToLeft;
-    sub @CG_12 by @SubstClass1;
-} SingleSubstitution11;
-
-lookup SingleSubstitution12 { # GSUB lookup type SingleSubstitution
-    lookupflag RightToLeft;
-    sub yehsmallv-arab.init by yehsmallv-arab.init.1;
-    sub yehsmallv-arab.medi by yehsmallv-arab.medi.2;
-} SingleSubstitution12;
-
-lookup SingleSubstitution13 { # GSUB lookup type SingleSubstitution
-    lookupflag RightToLeft;
-    sub yehsmallv-arab.medi by yehsmallv-arab.medi.4;
-} SingleSubstitution13;
-
-lookup SingleSubstitution14 { # GSUB lookup type SingleSubstitution
-    lookupflag RightToLeft;
-    sub yehsmallv-arab.medi by yehsmallv-arab.medi.3;
-} SingleSubstitution14;
-
 lookup MultipleSubstitution1 { # GSUB lookup type MultipleSubstitution
     lookupflag RightToLeft;
     sub arabichamzacomb.1 by uE063 arabichamzacomb.1;
@@ -231,7 +142,34 @@ lookup MultipleSubstitution1 { # GSUB lookup type MultipleSubstitution
     sub shaddadamma-arab.isol by uE063 shaddadamma-arab.isol;
 } MultipleSubstitution1;
 
-lookup SingleSubstitution15 { # GSUB lookup type SingleSubstitution
+lookup MultipleSubstitution2 { # GSUB lookup type MultipleSubstitution
+    lookupflag RightToLeft;
+    sub arabichamzacomb.1 by uE093 arabichamzacomb.1;
+    sub arabichamzabelowcomb by uE093 arabichamzabelowcomb;
+    sub arabicfathacomb by uE093 arabicfathacomb;
+    sub arabickasracomb by uE093 arabickasracomb;
+    sub arabicdammacomb by uE093 arabicdammacomb;
+    sub arabicdammatancomb by uE093 arabicdammatancomb;
+    sub arabicshaddacomb by uE093 arabicshaddacomb;
+    sub arabicalefcomb by uE093 arabicalefcomb;
+    sub alefcomb-arab by uE093 alefcomb-arab;
+    sub arabicsukuncomb by uE093 arabicsukuncomb;
+    sub arabicfathatancomb by uE093 arabicfathatancomb;
+    sub arabickasratancomb by uE093 arabickasratancomb;
+    sub arabichamzacomb_arabicdammacomb by uE093 arabichamzacomb_arabicdammacomb;
+    sub arabichamzacomb_arabicdammatancomb by uE093 arabichamzacomb_arabicdammatancomb;
+    sub arabichamzacomb_arabicfathacomb by uE093 arabichamzacomb_arabicfathacomb;
+    sub arabichamzacomb_arabicfathatancomb by uE093 arabichamzacomb_arabicfathatancomb;
+    sub smallquestionmark by uE093 smallquestionmark;
+    sub arabichamzacomb_arabickasracomb by uE093 arabichamzacomb_arabickasracomb;
+    sub arabichamzacomb_arabickasratancomb by uE093 arabichamzacomb_arabickasratancomb;
+    sub arabicshaddacomb_arabicfathatancomb by uE093 arabicshaddacomb_arabicfathatancomb;
+    sub shaddadammatan-arab.isol by uE093 shaddadammatan-arab.isol;
+    sub shaddafatha-arab.isol by uE093 shaddafatha-arab.isol;
+    sub shaddadamma-arab.isol by uE093 shaddadamma-arab.isol;
+} MultipleSubstitution2;
+
+lookup SingleSubstitution5 { # GSUB lookup type SingleSubstitution
     lookupflag RightToLeft;
     sub beh-arab.init by beh-arab.init.2;
     sub beh-arab.medi by beh-arab.medi.2;
@@ -242,9 +180,9 @@ lookup SingleSubstitution15 { # GSUB lookup type SingleSubstitution
     sub farsiyeh-arab.medi by farsiyeh-arab.medi.2;
     sub yehsmallv-arab.init by yehsmallv-arab.init.2;
     sub yehsmallv-arab.medi by yehsmallv-arab.medi.1;
-} SingleSubstitution15;
+} SingleSubstitution5;
 
-lookup SingleSubstitution16 { # GSUB lookup type SingleSubstitution
+lookup SingleSubstitution6 { # GSUB lookup type SingleSubstitution
     lookupflag RightToLeft;
     sub beh-arab.init by beh-arab.init.1;
     sub beh-arab.medi by beh-arab.medi.1;
@@ -253,9 +191,9 @@ lookup SingleSubstitution16 { # GSUB lookup type SingleSubstitution
     sub tcheh-arab.init by tcheh-arab.init.1;
     sub farsiyeh-arab.init by farsiyeh-arab.init.1;
     sub farsiyeh-arab.medi by farsiyeh-arab.medi.1;
-} SingleSubstitution16;
+} SingleSubstitution6;
 
-lookup SingleSubstitution17 { # GSUB lookup type SingleSubstitution
+lookup SingleSubstitution7 { # GSUB lookup type SingleSubstitution
     lookupflag RightToLeft;
     sub peh-arab.init by peh-arab.init.3;
     sub peh-arab.medi by peh-arab.medi.3;
@@ -263,7 +201,106 @@ lookup SingleSubstitution17 { # GSUB lookup type SingleSubstitution
     sub farsiyeh-arab.medi by farsiyeh-arab.medi.3;
     sub yehsmallv-arab.init by yehsmallv-arab.init.4;
     sub yehsmallv-arab.medi by yehsmallv-arab.medi.5;
-} SingleSubstitution17;";
+} SingleSubstitution7;
+
+lookup SingleSubstitution8 { # GSUB lookup type SingleSubstitution
+    lookupflag RightToLeft;
+    sub yehsmallv-arab.init by yehsmallv-arab.init.3;
+} SingleSubstitution8;
+
+lookup Alternate4 { # GSUB lookup type Alternate
+    lookupflag RightToLeft;
+    sub farsiyeh-arab.fina from [yehbarree-arab.2.fina];
+    sub yehhamzaabove-arab.fina from [arabichamzacomb];
+    sub farsiyeh-arab.fina.1 from [yehbarree-arab.2.fina];
+    sub yehhamzaabove-arab.fina.1 from [arabichamzacomb];
+} Alternate4;
+
+lookup SingleSubstitution9 { # GSUB lookup type SingleSubstitution
+    lookupflag RightToLeft;
+    sub farsiyeh-arab.fina by farsiyeh-arab.fina.1;
+    sub yeh-arab.fina by yeh-arab.fina.1;
+    sub yehhamzaabove-arab.fina by yehhamzaabove-arab.fina.1;
+    sub yehsmallv-arab.fina by yehsmallv-arab.fina.1;
+} SingleSubstitution9;
+
+lookup SingleSubstitution10 { # GSUB lookup type SingleSubstitution
+    lookupflag RightToLeft IgnoreMarks;
+    sub alefmaddaabove-arab.fina by alefmaddaabove-arab.fina.1;
+} SingleSubstitution10;
+
+lookup SingleSubstitution11 { # GSUB lookup type SingleSubstitution
+    lookupflag RightToLeft IgnoreMarks;
+    sub alef-arab.fina by alef-arab.fina.1;
+    sub alefmaddaabove-arab.fina by alefmaddaabove-arab.fina.2;
+    sub highhamzaalef-arab by highhamzaalef-arab.calt;
+    sub alefhamzabelow-arab.fina by alefhamzabelow-arab.fina.1;
+} SingleSubstitution11;
+
+lookup SingleSubstitution12 { # GSUB lookup type SingleSubstitution
+    lookupflag RightToLeft;
+    sub reh-arab by reh-arab.calt;
+    sub reh-arab.fina by reh-arab.fina.1;
+    sub zain-arab by zain-arab.calt;
+    sub zain-arab.fina by zain-arab.fina.1;
+    sub waw-arab by waw-arab.calt;
+    sub waw-arab.fina by waw-arab.fina.1;
+    sub kirghizyu-arab.fina by kirghizyu-arab.fina.1;
+    sub kirghizyu-arab by kirghizyu-arab.calt;
+    sub oe-arab.fina by oe-arab.fina.1;
+    sub oe-arab by oe-arab.calt;
+    sub u-arab.fina by u-arab.fina.1;
+    sub u-arab by u-arab.calt;
+} SingleSubstitution12;
+
+lookup SingleSubstitution13 { # GSUB lookup type SingleSubstitution
+    lookupflag RightToLeft;
+    sub jeh-arab by jeh-arab.calt;
+    sub jeh-arab.fina by jeh-arab.fina.1;
+    sub rreh-arab by rreh-arab.calt;
+    sub rreh-arab.fina by rreh-arab.fina.1;
+    sub rehsmallvbelow-arab by rehsmallvbelow-arab.calt;
+    sub rehsmallvbelow-arab.fina by rehsmallvbelow-arab.fina.1;
+} SingleSubstitution13;
+
+lookup SingleSubstitution14 { # GSUB lookup type SingleSubstitution
+    lookupflag RightToLeft;
+    sub jeem-arab.init by jeem-arab.init.1;
+    sub jeem-arab.medi by jeem-arab.medi.1;
+} SingleSubstitution14;
+
+lookup SingleSubstitution15 { # GSUB lookup type SingleSubstitution
+    lookupflag RightToLeft;
+    sub teh-arab.init by uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.init;
+    sub teh-arab.medi by uighurkazakhkirghizalefmaksura_symboltwodotsabovemod-arab.medi;
+    sub theh-arab.init by uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.init;
+    sub theh-arab.medi by uighurkazakhkirghizalefmaksura_symbolthreedotsabovemod-arab.medi;
+    sub yehhamzaabove-arab.init by uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.init;
+    sub yehhamzaabove-arab.medi by uighurkazakhkirghizalefmaksura_arabichamzacomb-arab.medi;
+    sub tteh-arab.init by tteh-arab.init.1;
+    sub tteh-arab.medi by tteh-arab.medi.1;
+} SingleSubstitution15;
+
+lookup SingleSubstitution16 { # GSUB lookup type SingleSubstitution
+    lookupflag RightToLeft;
+    sub @CG_13 by @SubstClass1;
+} SingleSubstitution16;
+
+lookup SingleSubstitution17 { # GSUB lookup type SingleSubstitution
+    lookupflag RightToLeft;
+    sub yehsmallv-arab.init by yehsmallv-arab.init.1;
+    sub yehsmallv-arab.medi by yehsmallv-arab.medi.2;
+} SingleSubstitution17;
+
+lookup SingleSubstitution18 { # GSUB lookup type SingleSubstitution
+    lookupflag RightToLeft;
+    sub yehsmallv-arab.medi by yehsmallv-arab.medi.4;
+} SingleSubstitution18;
+
+lookup SingleSubstitution19 { # GSUB lookup type SingleSubstitution
+    lookupflag RightToLeft;
+    sub yehsmallv-arab.medi by yehsmallv-arab.medi.3;
+} SingleSubstitution19;";
 name = Lookups;
 }
 );
@@ -434,8 +471,18 @@ lookup ChainingContext1 { # GSUB lookup type ChainingContext
 
 lookup ChainingContext2 { # GSUB lookup type ChainingContext
     lookupflag RightToLeft;
+    sub @CG_3 @MarkFilteringSet2' lookup MultipleSubstitution2 @CG_2;
+} ChainingContext2;
+
+lookup ChainingContext3 { # GSUB lookup type ChainingContext
+    lookupflag RightToLeft;
     sub @CG_1 @MarkFilteringSet1' lookup MultipleSubstitution1 @CG_2;
-} ChainingContext2;";
+} ChainingContext3;
+
+lookup ChainingContext4 { # GSUB lookup type ChainingContext
+    lookupflag RightToLeft;
+    sub @CG_3 @MarkFilteringSet1' lookup MultipleSubstitution2 @CG_2;
+} ChainingContext4;";
 labels = (
 {
 language = dflt;
@@ -457,10 +504,10 @@ lookup Alternate1 { # GSUB lookup type Alternate
     sub yehhamzaabove-arab from [yehbarreehamzaabove-arab];
 } Alternate1;
 
-lookup ChainingContext3 { # GSUB lookup type ChainingContext
+lookup ChainingContext5 { # GSUB lookup type ChainingContext
     lookupflag RightToLeft IgnoreMarks;
-    sub @CG_4 @CG_3 @CG_5' lookup Alternate4;
-} ChainingContext3;
+    sub @CG_5 @CG_4 @CG_6' lookup Alternate4;
+} ChainingContext5;
 
 lookup Alternate2 { # GSUB lookup type Alternate
     lookupflag RightToLeft IgnoreMarks;
@@ -499,75 +546,80 @@ tag = ccmp;
 automatic = 1;
 code = "
 
-lookup ChainingContext4 { # GSUB lookup type ChainingContext
-    lookupflag RightToLeft IgnoreMarks;
-    sub @CG_6 @CG_7' lookup SingleSubstitution17 @CG_8;
-} ChainingContext4;
-
-lookup ChainingContext5 { # GSUB lookup type ChainingContext
-    lookupflag RightToLeft IgnoreMarks;
-    sub @CG_6 @CG_9' lookup SingleSubstitution15 @CG_10;
-} ChainingContext5;
-
 lookup ChainingContext6 { # GSUB lookup type ChainingContext
     lookupflag RightToLeft IgnoreMarks;
-    sub @CG_6 @CG_7' lookup SingleSubstitution16 @CG_11;
+    sub @CG_7 @CG_8' lookup SingleSubstitution7 @CG_9;
 } ChainingContext6;
 
 lookup ChainingContext7 { # GSUB lookup type ChainingContext
     lookupflag RightToLeft IgnoreMarks;
-    sub @CG_12' lookup SingleSubstitution11 @CG_10;
+    sub @CG_7 @CG_10' lookup SingleSubstitution5 @CG_11;
 } ChainingContext7;
 
 lookup ChainingContext8 { # GSUB lookup type ChainingContext
     lookupflag RightToLeft IgnoreMarks;
-    sub @CG_13 @CG_14' lookup SingleSubstitution13 @CG_15;
+    sub @CG_7 @CG_8' lookup SingleSubstitution6 @CG_12;
 } ChainingContext8;
 
 lookup ChainingContext9 { # GSUB lookup type ChainingContext
     lookupflag RightToLeft IgnoreMarks;
-    sub @CG_14' lookup SingleSubstitution12 @CG_15;
+    sub @CG_13' lookup SingleSubstitution16 @CG_11;
 } ChainingContext9;
 
 lookup ChainingContext10 { # GSUB lookup type ChainingContext
     lookupflag RightToLeft IgnoreMarks;
-    sub @CG_6 @CG_14' lookup SingleSubstitution4 @CG_16;
+    sub @CG_14 @CG_15' lookup SingleSubstitution18 @CG_16;
 } ChainingContext10;
 
 lookup ChainingContext11 { # GSUB lookup type ChainingContext
     lookupflag RightToLeft IgnoreMarks;
-    sub @CG_13 @CG_14' lookup SingleSubstitution14;
+    sub @CG_15' lookup SingleSubstitution17 @CG_16;
 } ChainingContext11;
 
 lookup ChainingContext12 { # GSUB lookup type ChainingContext
     lookupflag RightToLeft IgnoreMarks;
-    sub @CG_17' lookup SingleSubstitution10 @CG_15;
+    sub @CG_7 @CG_15' lookup SingleSubstitution8 @CG_17;
 } ChainingContext12;
 
 lookup ChainingContext13 { # GSUB lookup type ChainingContext
-    lookupflag RightToLeft UseMarkFilteringSet @MarkFilteringSet1;
-    sub @CG_4 @CG_18 @CG_19' lookup SingleSubstitution5;
+    lookupflag RightToLeft IgnoreMarks;
+    sub @CG_14 @CG_15' lookup SingleSubstitution19;
 } ChainingContext13;
 
 lookup ChainingContext14 { # GSUB lookup type ChainingContext
     lookupflag RightToLeft IgnoreMarks;
-    sub @CG_20 alefmaddaabove-arab.fina' lookup SingleSubstitution6;
+    sub @CG_18' lookup SingleSubstitution15 @CG_16;
 } ChainingContext14;
 
 lookup ChainingContext15 { # GSUB lookup type ChainingContext
-    lookupflag RightToLeft IgnoreMarks;
-    sub @CG_21 @MarkFilteringSet2 @CG_22' lookup SingleSubstitution7;
+    lookupflag RightToLeft UseMarkFilteringSet @MarkFilteringSet1;
+    sub @CG_5 @CG_19 @CG_20' lookup SingleSubstitution9;
 } ChainingContext15;
 
 lookup ChainingContext16 { # GSUB lookup type ChainingContext
-    lookupflag IgnoreMarks;
-    sub @CG_23' lookup SingleSubstitution8 @CG_24;
+    lookupflag RightToLeft IgnoreMarks;
+    sub @CG_21 alefmaddaabove-arab.fina' lookup SingleSubstitution10;
 } ChainingContext16;
 
 lookup ChainingContext17 { # GSUB lookup type ChainingContext
+    lookupflag RightToLeft IgnoreMarks;
+    sub @CG_22 @MarkFilteringSet2 @CG_23' lookup SingleSubstitution11;
+} ChainingContext17;
+
+lookup ChainingContext18 { # GSUB lookup type ChainingContext
     lookupflag IgnoreMarks;
-    sub @CG_23' lookup SingleSubstitution9 @CG_24;
-} ChainingContext17;";
+    sub @CG_24' lookup SingleSubstitution12 @CG_25;
+} ChainingContext18;
+
+lookup ChainingContext19 { # GSUB lookup type ChainingContext
+    lookupflag IgnoreMarks;
+    sub @CG_24' lookup SingleSubstitution13 @CG_25;
+} ChainingContext19;
+
+lookup ChainingContext20 { # GSUB lookup type ChainingContext
+    lookupflag IgnoreMarks;
+    sub @CG_26' lookup SingleSubstitution14 @CG_27;
+} ChainingContext20;";
 tag = calt;
 },
 {
@@ -652,24 +704,6 @@ value = "Fa Num";
 }
 );
 tag = ss01;
-},
-{
-automatic = 1;
-code = "
-
-featureNames {
-    name \"Bigger Space\"; # English - United States
-};
-lookupflag RightToLeft;
-sub space from [uE064];
-sub nbspace from [uE065];";
-labels = (
-{
-language = dflt;
-value = "Bigger Space";
-}
-);
-tag = ss04;
 },
 {
 automatic = 1;
@@ -1127,7 +1161,6 @@ lookup PairAdjustment1 { # GPOS lookup type PairAdjustment
     pos jeh-arab peh-arab <-160 0 -160 0>;
     pos jeh-arab peh-arab.init.1 <-160 0 -160 0>;
     pos jeh-arab hah-arab.init <-160 0 -160 0>;
-    pos jeh-arab jeem-arab <-160 0 -160 0>;
     pos jeh-arab jeem-arab.init <-160 0 -160 0>;
     pos jeh-arab tcheh-arab.init <-160 0 -160 0>;
     pos jeh-arab khah-arab.init <-160 0 -160 0>;
@@ -1180,7 +1213,6 @@ lookup PairAdjustment1 { # GPOS lookup type PairAdjustment
     pos jeh-arab.fina peh-arab <-160 0 -160 0>;
     pos jeh-arab.fina peh-arab.init.1 <-160 0 -160 0>;
     pos jeh-arab.fina hah-arab.init <-160 0 -160 0>;
-    pos jeh-arab.fina jeem-arab <-160 0 -160 0>;
     pos jeh-arab.fina jeem-arab.init <-160 0 -160 0>;
     pos jeh-arab.fina tcheh-arab.init <-160 0 -160 0>;
     pos jeh-arab.fina khah-arab.init <-160 0 -160 0>;
@@ -1233,7 +1265,6 @@ lookup PairAdjustment1 { # GPOS lookup type PairAdjustment
     pos rreh-arab peh-arab <-160 0 -160 0>;
     pos rreh-arab peh-arab.init.1 <-160 0 -160 0>;
     pos rreh-arab hah-arab.init <-160 0 -160 0>;
-    pos rreh-arab jeem-arab <-160 0 -160 0>;
     pos rreh-arab jeem-arab.init <-160 0 -160 0>;
     pos rreh-arab tcheh-arab.init <-160 0 -160 0>;
     pos rreh-arab khah-arab.init <-160 0 -160 0>;
@@ -1286,7 +1317,6 @@ lookup PairAdjustment1 { # GPOS lookup type PairAdjustment
     pos rreh-arab.fina peh-arab <-160 0 -160 0>;
     pos rreh-arab.fina peh-arab.init.1 <-160 0 -160 0>;
     pos rreh-arab.fina hah-arab.init <-160 0 -160 0>;
-    pos rreh-arab.fina jeem-arab <-160 0 -160 0>;
     pos rreh-arab.fina jeem-arab.init <-160 0 -160 0>;
     pos rreh-arab.fina tcheh-arab.init <-160 0 -160 0>;
     pos rreh-arab.fina khah-arab.init <-160 0 -160 0>;
@@ -2285,7 +2315,6 @@ lookup PairAdjustment1 { # GPOS lookup type PairAdjustment
     pos jeh-arab.calt peh-arab <-160 0 -160 0>;
     pos jeh-arab.calt peh-arab.init.1 <-160 0 -160 0>;
     pos jeh-arab.calt hah-arab.init <-160 0 -160 0>;
-    pos jeh-arab.calt jeem-arab <-160 0 -160 0>;
     pos jeh-arab.calt jeem-arab.init <-160 0 -160 0>;
     pos jeh-arab.calt tcheh-arab.init <-160 0 -160 0>;
     pos jeh-arab.calt khah-arab.init <-160 0 -160 0>;
@@ -2338,7 +2367,6 @@ lookup PairAdjustment1 { # GPOS lookup type PairAdjustment
     pos jeh-arab.fina.1 peh-arab <-160 0 -160 0>;
     pos jeh-arab.fina.1 peh-arab.init.1 <-160 0 -160 0>;
     pos jeh-arab.fina.1 hah-arab.init <-160 0 -160 0>;
-    pos jeh-arab.fina.1 jeem-arab <-160 0 -160 0>;
     pos jeh-arab.fina.1 jeem-arab.init <-160 0 -160 0>;
     pos jeh-arab.fina.1 tcheh-arab.init <-160 0 -160 0>;
     pos jeh-arab.fina.1 khah-arab.init <-160 0 -160 0>;
@@ -2391,7 +2419,6 @@ lookup PairAdjustment1 { # GPOS lookup type PairAdjustment
     pos rreh-arab.calt peh-arab <-160 0 -160 0>;
     pos rreh-arab.calt peh-arab.init.1 <-160 0 -160 0>;
     pos rreh-arab.calt hah-arab.init <-160 0 -160 0>;
-    pos rreh-arab.calt jeem-arab <-160 0 -160 0>;
     pos rreh-arab.calt jeem-arab.init <-160 0 -160 0>;
     pos rreh-arab.calt tcheh-arab.init <-160 0 -160 0>;
     pos rreh-arab.calt khah-arab.init <-160 0 -160 0>;
@@ -2444,7 +2471,6 @@ lookup PairAdjustment1 { # GPOS lookup type PairAdjustment
     pos rreh-arab.fina.1 peh-arab <-160 0 -160 0>;
     pos rreh-arab.fina.1 peh-arab.init.1 <-160 0 -160 0>;
     pos rreh-arab.fina.1 hah-arab.init <-160 0 -160 0>;
-    pos rreh-arab.fina.1 jeem-arab <-160 0 -160 0>;
     pos rreh-arab.fina.1 jeem-arab.init <-160 0 -160 0>;
     pos rreh-arab.fina.1 tcheh-arab.init <-160 0 -160 0>;
     pos rreh-arab.fina.1 khah-arab.init <-160 0 -160 0>;
@@ -3978,50 +4004,50 @@ lookup MarkToBase2 { # GPOS lookup type MarkToBase
     pos base swashkaf-arab.medi <anchor 240 0> mark @bottom-arab;
     pos base uE093 <anchor 240 0> mark @bottom-arab;
     pos base uE063 <anchor 240 0> mark @bottom-arab;
-    pos base peh-arab.init.3 <anchor 240 -480> mark @bottom-arab;
-    pos base peh-arab.medi.3 <anchor 240 -480> mark @bottom-arab;
-    pos base farsiyeh-arab.init.3 <anchor 240 -320> mark @bottom-arab;
-    pos base farsiyeh-arab.medi.3 <anchor 240 -320> mark @bottom-arab;
-    pos base yehsmallv-arab.init.4 <anchor 240 -320> mark @bottom-arab;
-    pos base yehsmallv-arab.medi.5 <anchor 240 -320> mark @bottom-arab;
+    pos base peh-arab.init.3 <anchor 80 -480> mark @bottom-arab;
+    pos base peh-arab.medi.3 <anchor 80 -480> mark @bottom-arab;
+    pos base farsiyeh-arab.init.3 <anchor 80 -320> mark @bottom-arab;
+    pos base farsiyeh-arab.medi.3 <anchor 80 -320> mark @bottom-arab;
+    pos base yehsmallv-arab.init.4 <anchor 80 -320> mark @bottom-arab;
+    pos base yehsmallv-arab.medi.5 <anchor 80 -320> mark @bottom-arab;
 } MarkToBase2;
 
 lookup MarkToLigature1 { # GPOS lookup type MarkToLigature
     lookupflag RightToLeft;
     pos ligature lamalef-arab.isol
-        <anchor 400 640> mark @top-arab
+        <anchor 80 640> mark @top-arab
         ligComponent
         <anchor 80 640> mark @top-arab;
     pos ligature lamalef-arab.fina
-        <anchor 400 640> mark @top-arab
+        <anchor 80 640> mark @top-arab
         ligComponent
         <anchor 80 640> mark @top-arab;
     pos ligature lamalefmaddaabove-arab.isol
-        <anchor 400 800> mark @top-arab
+        <anchor 80 800> mark @top-arab
         ligComponent
         <anchor 80 800> mark @top-arab;
     pos ligature lamalefmaddaabove-arab.fina
-        <anchor 400 800> mark @top-arab
+        <anchor 80 800> mark @top-arab
         ligComponent
         <anchor 80 800> mark @top-arab;
     pos ligature lamalefhamzaabove-arab.isol
-        <anchor 400 960> mark @top-arab
+        <anchor 80 960> mark @top-arab
         ligComponent
         <anchor 80 960> mark @top-arab;
     pos ligature lamalefhamzaabove-arab.fina
-        <anchor 400 960> mark @top-arab
+        <anchor 80 960> mark @top-arab
         ligComponent
         <anchor 80 960> mark @top-arab;
     pos ligature lamalefhamzabelow-arab.isol
-        <anchor 400 640> mark @top-arab
+        <anchor 80 640> mark @top-arab
         ligComponent
         <anchor 80 640> mark @top-arab;
     pos ligature lamalefhamzabelow-arab.fina
-        <anchor 400 640> mark @top-arab
+        <anchor 80 640> mark @top-arab
         ligComponent
         <anchor 80 640> mark @top-arab;
     pos ligature lam_uE069_arabicshaddacomb_arabicalefcomb_hehgoal_arabictatweelmod-arab.init.fina
-        <anchor 1200 640> mark @top-arab
+        <anchor 720 1080> mark @top-arab
         ligComponent
         <anchor 720 1080> mark @top-arab;
 } MarkToLigature1;
@@ -4029,39 +4055,39 @@ lookup MarkToLigature1 { # GPOS lookup type MarkToLigature
 lookup MarkToLigature2 { # GPOS lookup type MarkToLigature
     lookupflag RightToLeft;
     pos ligature lamalef-arab.isol
-        <anchor 400 0> mark @bottom-arab
+        <anchor 80 0> mark @bottom-arab
         ligComponent
         <anchor 80 0> mark @bottom-arab;
     pos ligature lamalef-arab.fina
-        <anchor 400 0> mark @bottom-arab
+        <anchor 80 0> mark @bottom-arab
         ligComponent
         <anchor 80 0> mark @bottom-arab;
     pos ligature lamalefmaddaabove-arab.isol
-        <anchor 400 0> mark @bottom-arab
+        <anchor 80 0> mark @bottom-arab
         ligComponent
         <anchor 80 0> mark @bottom-arab;
     pos ligature lamalefmaddaabove-arab.fina
-        <anchor 400 0> mark @bottom-arab
+        <anchor 80 0> mark @bottom-arab
         ligComponent
         <anchor 80 0> mark @bottom-arab;
     pos ligature lamalefhamzaabove-arab.isol
-        <anchor 400 0> mark @bottom-arab
+        <anchor 80 0> mark @bottom-arab
         ligComponent
         <anchor 80 0> mark @bottom-arab;
     pos ligature lamalefhamzaabove-arab.fina
-        <anchor 400 0> mark @bottom-arab
+        <anchor 80 0> mark @bottom-arab
         ligComponent
         <anchor 80 0> mark @bottom-arab;
     pos ligature lamalefhamzabelow-arab.isol
-        <anchor 400 -640> mark @bottom-arab
+        <anchor 80 -640> mark @bottom-arab
         ligComponent
         <anchor 80 -640> mark @bottom-arab;
     pos ligature lamalefhamzabelow-arab.fina
-        <anchor 400 -640> mark @bottom-arab
+        <anchor 80 -640> mark @bottom-arab
         ligComponent
         <anchor 80 -640> mark @bottom-arab;
     pos ligature lam_uE069_arabicshaddacomb_arabicalefcomb_hehgoal_arabictatweelmod-arab.init.fina
-        <anchor 1200 0> mark @bottom-arab
+        <anchor 720 0> mark @bottom-arab
         ligComponent
         <anchor 720 0> mark @bottom-arab;
 } MarkToLigature2;";
@@ -4250,27 +4276,27 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(480,640,l),
 (480,480,l),
-(320,480,l),
+(480,320,l),
 (320,320,l),
+(320,160,l),
+(0,160,l),
 (0,320,l),
-(0,480,l),
+(320,320,l),
 (320,480,l),
-(320,640,l),
+(0,480,l),
 (0,640,l),
-(0,800,l),
-(320,800,l),
-(320,640,l)
+(320,640,l),
+(320,480,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(0,160,l),
 (0,0,l),
-(160,0,l),
-(160,160,l)
+(0,-160,l),
+(160,-160,l),
+(160,0,l)
 );
 }
 );
@@ -8154,27 +8180,27 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(0,0,l),
+(0,160,l),
 (160,160,l),
 (160,320,l),
-(320,320,l),
-(320,480,l),
-(640,480,l),
-(640,320,l),
-(320,320,l),
-(320,160,l),
-(640,160,l),
-(640,0,l),
-(320,0,l),
-(320,160,l)
+(480,320,l),
+(480,160,l),
+(160,160,l),
+(160,0,l),
+(480,0,l),
+(480,-160,l),
+(160,-160,l),
+(160,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(640,640,l),
-(640,800,l),
-(480,800,l),
-(480,640,l)
+(480,480,l),
+(480,640,l),
+(320,640,l),
+(320,480,l)
 );
 }
 );
@@ -8477,27 +8503,27 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(160,800,l),
-(480,800,l),
-(480,640,l),
 (160,640,l),
-(160,480,l),
+(480,640,l),
 (480,480,l),
-(480,320,l),
-(160,320,l),
 (160,480,l),
+(160,320,l),
+(480,320,l),
+(480,160,l),
+(160,160,l),
+(160,320,l),
+(0,320,l),
 (0,480,l),
-(0,640,l),
-(160,640,l)
+(160,480,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(320,0,l),
+(320,-160,l),
+(480,-160,l),
 (480,0,l),
-(480,160,l),
-(320,160,l)
+(320,0,l)
 );
 }
 );
@@ -10694,7 +10720,7 @@ shapes = (
 ref = "hah-arab.init";
 },
 {
-pos = (80,-160);
+pos = (240,-160);
 ref = "symbolthreedotspointingdownwardsbelowmod-arab";
 }
 );
@@ -14049,6 +14075,15 @@ nodes = (
 (0,0,l),
 (0,320,l)
 );
+},
+{
+closed = 1;
+nodes = (
+(40,44,l),
+(40,44,l),
+(40,44,l),
+(40,44,l)
+);
 }
 );
 width = 480;
@@ -14377,22 +14412,22 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(160,640,l),
-(160,480,l),
+(0,480,l),
+(0,320,l),
+(-160,320,l),
+(-160,480,l),
 (0,480,l),
 (0,640,l),
-(160,640,l),
-(160,800,l),
-(0,800,l),
+(-160,640,l),
+(-160,960,l),
+(0,960,l),
 (0,1120,l),
 (160,1120,l),
-(160,1280,l),
-(320,1280,l),
-(320,1120,l),
-(160,1120,l),
 (160,960,l),
-(320,960,l),
-(320,640,l)
+(0,960,l),
+(0,800,l),
+(160,800,l),
+(160,480,l)
 );
 }
 );
@@ -14421,7 +14456,7 @@ shapes = (
 ref = "heh-arab.fina";
 },
 {
-pos = (240,480);
+pos = (80,320);
 ref = uniE054;
 }
 );
@@ -15566,11 +15601,11 @@ layers = (
 anchors = (
 {
 name = "top-arab";
-pos = (400,640);
+pos = (80,640);
 },
 {
 name = "bottom-arab";
-pos = (400,0);
+pos = (80,0);
 }
 );
 layerId = m000;
@@ -15608,11 +15643,11 @@ layers = (
 anchors = (
 {
 name = "top-arab";
-pos = (400,640);
+pos = (80,640);
 },
 {
 name = "bottom-arab";
-pos = (400,0);
+pos = (80,0);
 }
 );
 layerId = m000;
@@ -15652,11 +15687,11 @@ layers = (
 anchors = (
 {
 name = "top-arab";
-pos = (400,800);
+pos = (80,800);
 },
 {
 name = "bottom-arab";
-pos = (400,0);
+pos = (80,0);
 }
 );
 layerId = m000;
@@ -15683,11 +15718,11 @@ layers = (
 anchors = (
 {
 name = "top-arab";
-pos = (400,800);
+pos = (80,800);
 },
 {
 name = "bottom-arab";
-pos = (400,0);
+pos = (80,0);
 }
 );
 layerId = m000;
@@ -15714,11 +15749,11 @@ layers = (
 anchors = (
 {
 name = "top-arab";
-pos = (400,960);
+pos = (80,960);
 },
 {
 name = "bottom-arab";
-pos = (400,0);
+pos = (80,0);
 }
 );
 layerId = m000;
@@ -15745,11 +15780,11 @@ layers = (
 anchors = (
 {
 name = "top-arab";
-pos = (400,960);
+pos = (80,960);
 },
 {
 name = "bottom-arab";
-pos = (400,0);
+pos = (80,0);
 }
 );
 layerId = m000;
@@ -15776,11 +15811,11 @@ layers = (
 anchors = (
 {
 name = "top-arab";
-pos = (400,640);
+pos = (80,640);
 },
 {
 name = "bottom-arab";
-pos = (400,-640);
+pos = (80,-640);
 }
 );
 layerId = m000;
@@ -15807,11 +15842,11 @@ layers = (
 anchors = (
 {
 name = "top-arab";
-pos = (400,640);
+pos = (80,640);
 },
 {
 name = "bottom-arab";
-pos = (400,-640);
+pos = (80,-640);
 }
 );
 layerId = m000;
@@ -15838,11 +15873,11 @@ layers = (
 anchors = (
 {
 name = "top-arab";
-pos = (1200,640);
+pos = (720,1080);
 },
 {
 name = "bottom-arab";
-pos = (1200,0);
+pos = (720,0);
 }
 );
 layerId = m000;
@@ -19306,7 +19341,7 @@ nodes = (
 );
 }
 );
-width = 480;
+width = 400;
 }
 );
 unicode = 57472;
@@ -19377,8 +19412,6 @@ ref = "symboldotaccentmod-arab";
 width = 480;
 }
 );
-metricLeft = "base()";
-metricWidth = "base()";
 unicode = 57474;
 },
 {
@@ -19439,8 +19472,6 @@ ref = "symbolthreedotsabovemod-arab";
 width = 480;
 }
 );
-metricLeft = "base()";
-metricWidth = "base()";
 unicode = 57476;
 },
 {
@@ -19501,8 +19532,6 @@ ref = "smallhightahcomb-arab";
 width = 480;
 }
 );
-metricLeft = "base()";
-metricWidth = "base()";
 unicode = 57478;
 },
 {
@@ -19563,8 +19592,6 @@ ref = "vowelsignsmallvcomb-arab";
 width = 480;
 }
 );
-metricLeft = "base()";
-metricWidth = "base()";
 unicode = 57480;
 },
 {
@@ -20191,26 +20218,6 @@ width = 640;
 unicode = 57443;
 },
 {
-glyphname = uE064;
-layers = (
-{
-layerId = m000;
-width = 320;
-}
-);
-unicode = 57444;
-},
-{
-glyphname = uE065;
-layers = (
-{
-layerId = m000;
-width = 320;
-}
-);
-unicode = 57445;
-},
-{
 glyphname = "extendedarabicindicfour-arab.locl";
 layers = (
 {
@@ -20285,7 +20292,7 @@ pos = (240,320);
 },
 {
 name = "bottom-arab";
-pos = (240,-480);
+pos = (80,-480);
 }
 );
 layerId = m000;
@@ -20316,7 +20323,7 @@ pos = (240,320);
 },
 {
 name = "bottom-arab";
-pos = (240,-480);
+pos = (80,-480);
 }
 );
 layerId = m000;
@@ -20347,7 +20354,7 @@ pos = (240,320);
 },
 {
 name = "bottom-arab";
-pos = (240,-320);
+pos = (80,-320);
 }
 );
 layerId = m000;
@@ -20378,7 +20385,7 @@ pos = (240,320);
 },
 {
 name = "bottom-arab";
-pos = (240,-320);
+pos = (80,-320);
 }
 );
 layerId = m000;
@@ -20409,7 +20416,7 @@ pos = (240,800);
 },
 {
 name = "bottom-arab";
-pos = (240,-320);
+pos = (80,-320);
 }
 );
 layerId = m000;
@@ -20440,7 +20447,7 @@ pos = (240,800);
 },
 {
 name = "bottom-arab";
-pos = (240,-320);
+pos = (80,-320);
 }
 );
 layerId = m000;
@@ -20459,6 +20466,69 @@ width = 480;
 metricLeft = "base()";
 metricWidth = "base()";
 unicode = 57605;
+},
+{
+glyphname = "yehsmallv-arab.fina.1";
+layers = (
+{
+layerId = m000;
+shapes = (
+{
+ref = "farsiyeh-arab.fina.1";
+},
+{
+pos = (240,-480);
+ref = "vowelsignsmallvcomb-arab";
+}
+);
+width = 640;
+}
+);
+metricLeft = "base()";
+metricWidth = "base()";
+unicode = 57606;
+},
+{
+glyphname = "jeem-arab.init.1";
+layers = (
+{
+layerId = m000;
+shapes = (
+{
+ref = "hah-arab.init";
+},
+{
+pos = (240,-160);
+ref = "symboldotbelowmod-arab";
+}
+);
+width = 640;
+}
+);
+metricLeft = "base()";
+metricWidth = "base()";
+unicode = 57607;
+},
+{
+glyphname = "jeem-arab.medi.1";
+layers = (
+{
+layerId = m000;
+shapes = (
+{
+ref = "hah-arab.medi";
+},
+{
+pos = (240,-160);
+ref = "symboldotbelowmod-arab";
+}
+);
+width = 640;
+}
+);
+metricLeft = "base()";
+metricWidth = "base()";
+unicode = 57608;
 }
 );
 instances = (
@@ -20471,7 +20541,7 @@ value = "Sorena-Pixel";
 },
 {
 key = versionString;
-value = "Version 1.000;March 20, 2024;FontCreator 15.0.0.2958 64-bit";
+value = "Version 1.100;May 4, 2024;FontCreator 15.0.0.2958 64-bit";
 }
 );
 }
@@ -20548,5 +20618,5 @@ value = UKWN;
 );
 unitsPerEm = 1024;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 100;
 }
